@@ -7,5 +7,6 @@
  <body>
   <h1>画像を表示</h1>
   <p>画像が出る</p>
+  <img src="webp1/image1.jpg"alt="image"/>
  </body>
 </html>
