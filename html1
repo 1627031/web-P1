@@ -6,7 +6,7 @@
  </head>
  <body>
   <h1>画像を表示</h1>
-  <p>画像が出る</p>
+  <p>クリックで飛ぶ</p>
   <a href="http://www.t-kougei.ac.jp/index.html"><img src="webp1/image1.jpg"alt="image"/></a>
  </body>
 </html>
